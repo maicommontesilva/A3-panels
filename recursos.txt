@@ -1,0 +1,3 @@
+pinto;penis;IA Responsável;Artigo;UsuarioGenerico
+pika;mucha;IA Responsável;Artigo;UsuarioGenerico
+fasfa;asdfa;IA Responsável;Artigo;UsuarioGenerico

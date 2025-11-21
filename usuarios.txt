@@ -1,0 +1,5 @@
+admin;123;Administrador Sistema;30;true;true;IA Responsável;Cibersegurança
+joao;123;joao;20;false;false;IA Responsável;IA Responsável
+maicom;123;pinto;20;true;false;IA Responsável;IA Responsável
+oscar;123;oscar;40;true;true;IA Responsável;IA Responsável
+cu virgem;123;maicom;20;false;true;IA Responsável;IA Responsável
